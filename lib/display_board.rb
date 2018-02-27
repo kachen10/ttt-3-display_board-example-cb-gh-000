@@ -2,9 +2,10 @@
 def display_board
  cell = "   "
  pipe = "|"
+ dash = "-----------"
  puts cell+pipe+cell+pipe+cell
- 11. times {puts"-"}
+ puts dash
   puts cell+pipe+cell+pipe+cell
- 11. times {puts  "-"}
+  puts dash
   puts cell+pipe+cell
 end

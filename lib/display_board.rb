@@ -3,8 +3,8 @@ def display_board
  cell = "   "
  pipe = " | "
  puts cell+pipe+cell
- 11. times {print " - "}
+ 11. times {print "-"}
   puts cell+pipe+cell
- 11. times {print " - "}
+ 11. times {print  "-"}
   puts cell+pipe+cell
 end

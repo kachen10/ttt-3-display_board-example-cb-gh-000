@@ -2,8 +2,8 @@
 def display_board
  row_1 = ["   "," | ","   "," | ","   "]
  print row_1
-print 11. times {" - "}
-print row_2 = ["   "," | ","   "," | ","   "]
-print 11. times {" - "}
-print row_3 = ["   "," | ","   "," | ","   "]
+ 11. times {" - "}
+ row_2 = ["   "," | ","   "," | ","   "]
+ 11. times {" - "}
+ row_3 = ["   "," | ","   "," | ","   "]
 end

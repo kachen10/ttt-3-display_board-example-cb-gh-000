@@ -3,7 +3,7 @@ def display_board
  cell = "   "
  pipe = "|"
  dash = "-----------"
-  puts cell+pipe+cell+pipe+cell
+ puts cell+pipe+cell+pipe+cell
   puts dash
   puts cell+pipe+cell+pipe+cell
   puts dash
